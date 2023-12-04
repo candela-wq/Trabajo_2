@@ -1,0 +1,431 @@
+
+
+.contenedor-flex{
+  display: flex;
+  justify-content: space-between;
+}
+.navegacion1{
+  font-size: 20px;
+  font-family: Helvetica;
+  margin-left: 670px;
+}
+.navegacion2{
+  font-size: 18px;
+  font-family: Helvetica;
+  border: 3px solid lightgrey;
+  margin-right: 50%;
+}
+.navegacion3{
+  font-size: 18px;
+  font-family: Helvetica;
+  border: 3px solid lightgrey;
+  margin-left: 50%;
+  margin-top: -102px;
+}
+.navegacion4{
+  font-size: 18px;
+  font-family: Helvetica;
+  border: 3px solid lightgrey;
+  margin-left: 50%;
+}
+.texto1{
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://www.etapainfantil.com/wp-content/uploads/2015/11/Mapamundi-político-para-imprimir.jpg.webp');
+  background-position: center;font-size:60px;
+  height: 400px;
+  background-size: cover;
+  text-align: center;
+  padding: 20px;
+  font-family: Helvetica;
+
+}
+.texto2 {
+  text-align: justify;
+  margin-top:0%;
+  margin-left:0%;
+  font-size:18px;
+  font-family: Helvetica;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.texto3{
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(229, 226, 226, 0.8)), url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2560px-Flag_of_Portugal.svg.png');
+  background-size: cover;
+  background-position: center;font-size:40px;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+  font-family: Helvetica;
+}
+.texto4{
+  text-align: justify;
+  margin-top: 0%;
+  font-size: 17px;
+  font-family: Helvetica;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.texto5{
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(229, 226, 226, 0.8)), url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAFVBMVEX///8AkkbOKzcAjz56uI/ehIjNHy1xf0V9AAAA/klEQVR4nO3QSQ0AIAADsHH6l4yKPUhaCc2oWTs9586aOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHy4ckD5KrN4eD2boIAAAAASUVORK5CYII=');
+  background-size: cover;
+  background-position: center;font-size:40px;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+  font-family: Helvetica;
+}
+.texto6{
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bandera_de_Suiza.png/640px-Bandera_de_Suiza.png');
+  background-size: cover;
+  background-position: center;font-size:40px;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+  font-family: Helvetica;
+}
+.texto7{
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/320px-Flag_of_Norway.svg.png');
+  background-size: cover;
+  background-position: center;font-size:40px;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+  font-family: Helvetica;
+}
+.texto8{
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://banderasysoportes.com/xen_media/bandera-eeuu.jpg');
+  background-size: cover;
+  background-position: center;font-size:40px;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+  font-family: Helvetica;
+}
+.texto9{
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://cdn.pixabay.com/photo/2012/04/10/23/24/mexico-26989_640.png');
+  background-size: cover;
+  background-position: center;font-size:40px;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+  font-family: Helvetica;
+}
+.texto10{
+  text-align: justify;
+  margin-top: 0%;
+  font-size: 17px;
+  font-family: Helvetica;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.foto1 img{
+  width: 45%;
+  height: 50%;
+  margin-top: -165px;
+}
+.foto2 img{
+  width: 100%;
+  height: auto;
+} 
+.foto3 img{
+  width: 49%;
+  max-width: 100%;
+  height: auto;
+}
+.foto_comida img{
+  max-width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-left: 100px;
+  width: auto;
+} 
+.curiosidad1 img{
+  max-width: 100%;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 20px;
+  width: auto;
+  font-family: 'Franklin Gothic Medium';
+} 
+.curiosidad2 img{
+  max-width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 20px;
+  width: auto;
+  font-family: 'Franklin Gothic Medium';
+} 
+.curiosidad3 img{
+  max-width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 20px;
+  width: auto;
+  font-family: 'Franklin Gothic Medium';
+} 
+.curiosidad4 img{
+  max-width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 20px;
+  width: auto;
+  font-family: 'Franklin Gothic Medium';
+} 
+.h1{
+  background-color: rgb(207, 240, 194);
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.h2{
+  background-color: rgb(215, 227, 210);
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.h3{
+  background-color: rgb(255, 160, 160);
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.h4{
+  background-color: rgb(192, 211, 243);
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.h5{
+  background-color: rgb(214, 214, 214);
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.h6{
+  background-color: rgb(255, 174, 128);
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.linea{
+  text-decoration: underline;
+}
+.caja{
+  width: auto;
+  height: auto;
+  border-bottom: 2px dashed #000;
+} 
+body {
+  font-family: Arial, sans-serif;
+}
+
+
+
+/* Desplegable con 3 rayas */
+body {
+  margin: 0;
+  font-family: Helvetica;
+}
+.menu-container {
+  display: flex;
+  align-items: center;
+  background-color: #9c9c9c;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+}
+.menu-icon {
+  cursor: pointer;
+}
+.bar {
+  width: 30px;
+  height: 3px;
+  background-color: rgb(0, 0, 0);
+  margin: 6px 0;
+}
+
+.menu {
+  display: none;
+  flex-direction: column;
+  background-color: #9c9c9c;
+  padding: 15px;
+  position: absolute;
+  top: 60px;
+  left: 10px;
+}
+.menu a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  padding: 8px;
+  border-bottom: 1px solid #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+/* Tamaño de fotos */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.galeria {
+  display: flex;
+}
+.imagen-zoom {
+  transition: transform 0.3s ease;
+}
+.imagen-zoom:hover {
+  transform: scale(1.8);
+}
+
+
+
+
+
+
+/* Fotos + html */
+body {
+  margin: 0;
+  font-family: Helvetica;
+}
+.column-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.image-link {
+  margin-bottom: 10px;
+  text-decoration: none;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.image-link img {
+  width: 200px;
+  border: 2px solid #6b6969;
+  border-radius: 20px;
+  transition: transform 0.2s ease-in-out;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-bottom: 10px;
+}
+.image-link img:hover {
+  transform: scale(1.9);
+}
+.image-text {
+  font-size: 18px;
+  color: #000000; 
+}
+
+
+
+
+
+/* Galeria de imagenes */
+body {
+  margin: 0;
+  font-family: Helvetica;
+}
+/* Estilos para el contenedor de la galería y los botones de navegación */
+.gallery-container {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+.gallery-image {
+  width: 100%;
+  max-height: 80vh; /* Ajusta según sea necesario */
+  object-fit: contain;
+}
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.prev {
+  left: 10px;
+}
+.next {
+  right: 10px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica;
+}
+/* Estilos para el contenedor de la galería y los botones de navegación */
+.gallery-container2 {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+.gallery-image2 {
+  width: 100%;
+  max-height: 80vh; /* Ajusta según sea necesario */
+  object-fit: contain;
+}
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.prev {
+  left: 10px;
+}
+.next {
+  right: 10px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+}
